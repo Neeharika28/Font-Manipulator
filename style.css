@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: whitesmoke;
+}
+.head{
+    background-color:#292b2c;
+    color: whitesmoke;
+}
+.footer{
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    background-color: #292b2c;
+    color: whitesmoke;
+}
+canvas{
+    border: 2px #292b2c;
+    box-shadow: 5px 5px 5px grey;
+    border-radius: 20px;
+}
